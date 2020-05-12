@@ -1,0 +1,12 @@
+.action {
+    display: inline-block;
+    font-size: 28px;
+    padding: 16px;
+    border: 1px solid black;
+}
+
+.active {
+    background-color: green;
+    font-weight: bold;
+    color: white;
+}

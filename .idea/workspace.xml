@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf6bd5ca-9d0e-4cd1-acf0-9cb46b6e94a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Action/Action.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Action/Action.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Exercise/Exercise.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Exercise/Exercise.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Exercises/Exercises.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Exercises/Exercises.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Generater/Generator.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Generater/Generator.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LetsCalculate.iml" afterDir="false" />
+    <list default="true" id="bf6bd5ca-9d0e-4cd1-acf0-9cb46b6e94a3" name="Default Changelist" comment="Update: Changed Generator and Action">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Action/Action.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Action/Action.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Action/Action.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Action/Action.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Exercise/Exercise.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Exercise/Exercise.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Exercise/Exercise.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Exercise/Exercise.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Exercises/Exercises.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Exercises/Exercises.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Exercises/Exercises.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Exercises/Exercises.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Generater/Generator.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Generater/Generator.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Generater/Generator.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Generater/Generator.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,18 +80,53 @@
       <workItem from="1589254843998" duration="457000" />
       <workItem from="1589255398824" duration="1407000" />
       <workItem from="1589302661257" duration="7283000" />
-      <workItem from="1589315113643" duration="254000" />
+      <workItem from="1589315113643" duration="3695000" />
+      <workItem from="1589389419779" duration="899000" />
+      <workItem from="1589416868667" duration="430000" />
+      <workItem from="1589733338503" duration="9778000" />
+      <workItem from="1589909991030" duration="6552000" />
+      <workItem from="1589925797087" duration="719000" />
+      <workItem from="1589927950765" duration="29000" />
+      <workItem from="1589928022972" duration="247000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update: Changed Generator and Action" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update: Changed Generator and Action" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589927969337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.34.1680.1010@0.0.1920.1040" timestamp="1589927969337" />
+    <state x="585" y="114" width="749" height="915" key="CommitChangelistDialog2" timestamp="1589928203067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="114" width="749" height="915" key="CommitChangelistDialog2/0.0.1920.1040/1920.34.1680.1010@0.0.1920.1040" timestamp="1589928203067" />
     <state x="393" y="275" key="FileChooserDialogImpl" timestamp="1589303776133">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="393" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.34.1680.1010@0.0.1920.1040" timestamp="1589303776133" />
+    <state width="1773" height="279" key="GridCell.Tab.0.bottom" timestamp="1589753042314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1773" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.34.1680.1010@0.0.1920.1040" timestamp="1589753042314" />
+    <state width="1773" height="279" key="GridCell.Tab.0.center" timestamp="1589753042313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1773" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/1920.34.1680.1010@0.0.1920.1040" timestamp="1589753042313" />
+    <state width="1773" height="279" key="GridCell.Tab.0.left" timestamp="1589753042313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1773" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/1920.34.1680.1010@0.0.1920.1040" timestamp="1589753042313" />
+    <state width="1773" height="279" key="GridCell.Tab.0.right" timestamp="1589753042313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1773" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.34.1680.1010@0.0.1920.1040" timestamp="1589753042313" />
     <state x="160" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1589304536287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

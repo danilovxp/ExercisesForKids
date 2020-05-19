@@ -12,8 +12,8 @@ const Action = (props) => {
     };
 
     return <div>
-        <span className={`${styles.action} ${isChosen && styles.active}`} onClick={toggleChosen}
-              ref={actionRef}>{props.sign}</span>
+        <button className={`${styles.action} ${isChosen && styles.active}`} onClick={toggleChosen}
+              ref={actionRef}>{props.sign}</button>
     </div>
 };
 

@@ -1,11 +1,11 @@
-import React, {useRef, useState} from 'react';
+import React from 'react';
 import './App.css';
 import Generator from "./components/Generater/Generator";
 
 const App = () => {
 
   return (
-      <div>
+      <div className="main">
           <Generator/>
       </div>
   )

@@ -1,0 +1,7 @@
+.correct, .win{
+    color: green;
+}
+
+.incorrect, .lose {
+    color: red;
+}

@@ -1,20 +1,28 @@
-import React, {useRef, useState} from "react";
-import styles from './Action.module.css';
+import React, { useRef, useState } from 'react'
+import { Button } from 'react-bootstrap'
 
 const Action = (props) => {
-    const [isChosen, setIsChosen] = useState(false);
-    const actionRef = useRef(null);
+  const [isChosen, setIsChosen] = useState(false)
+  const actionRef = useRef(null)
 
-    const toggleChosen = () => {
-        setIsChosen(!isChosen);
+  const toggleChosen = () => {
+    setIsChosen(!isChosen)
 
-        !isChosen ? props.onAdd(props.sign) : props.onDelete(props.sign);
-    };
+    !isChosen ? props.onAdd(props.sign) : props.onDelete(props.sign)
+  }
 
-    return <div>
-        <button className={`${styles.action} ${isChosen && styles.active}`} onClick={toggleChosen}
-              ref={actionRef}>{props.sign}</button>
+  return (
+    <div>
+      <Button
+        size="lg"
+        variant={`${isChosen ? 'warning' : 'outline-warning'}`}
+        onClick={toggleChosen}
+        ref={actionRef}
+      >
+        {props.sign}
+      </Button>
     </div>
-};
+  )
+}
 
-export default Action;
+export default Action

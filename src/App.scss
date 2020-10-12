@@ -1,0 +1,41 @@
+@mixin display-flex-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#root {
+  background: url('./assets/bg.jpg') no-repeat fixed;
+}
+
+.main-wrapper {
+  @include display-flex-center;
+  min-height: 100vh;
+}
+
+.action-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+}
+
+.input-form {
+  @include display-flex-center;
+}
+
+.exercises-number-field {
+  @include display-flex-center;
+  margin: 10px;
+}
+
+.btn-generate {
+  @include display-flex-center;
+  margin: 10px;
+}
+
+.exercises-wrapper {
+  @include display-flex-center;
+  margin: 10px;
+}

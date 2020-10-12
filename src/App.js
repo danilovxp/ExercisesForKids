@@ -1,13 +1,14 @@
-import React from "react";
-import "./App.css";
-import Generator from "./components/Generator/Generator";
+import React from 'react'
+import { Container } from 'react-bootstrap'
+import './App.scss'
+import Generator from './components/Generator/Generator'
 
 const App = () => {
   return (
-    <div className="main">
+    <Container className="main-wrapper">
       <Generator />
-    </div>
-  );
-};
+    </Container>
+  )
+}
 
-export default App;
+export default App

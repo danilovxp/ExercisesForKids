@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CalculatorForKids/static/css/main.3ee105f3.chunk.css",
+    "main.js": "/CalculatorForKids/static/js/main.d5e26a6b.chunk.js",
+    "main.js.map": "/CalculatorForKids/static/js/main.d5e26a6b.chunk.js.map",
+    "runtime-main.js": "/CalculatorForKids/static/js/runtime-main.029745bb.js",
+    "runtime-main.js.map": "/CalculatorForKids/static/js/runtime-main.029745bb.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/CalculatorForKids/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.13ecbbfb.chunk.js": "/CalculatorForKids/static/js/2.13ecbbfb.chunk.js",
+    "static/js/2.13ecbbfb.chunk.js.map": "/CalculatorForKids/static/js/2.13ecbbfb.chunk.js.map",
+    "index.html": "/CalculatorForKids/index.html",
+    "precache-manifest.c815744762b54189bfc217f662239623.js": "/CalculatorForKids/precache-manifest.c815744762b54189bfc217f662239623.js",
+    "service-worker.js": "/CalculatorForKids/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/CalculatorForKids/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.3ee105f3.chunk.css.map": "/CalculatorForKids/static/css/main.3ee105f3.chunk.css.map",
+    "static/js/2.13ecbbfb.chunk.js.LICENSE.txt": "/CalculatorForKids/static/js/2.13ecbbfb.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/CalculatorForKids/static/media/bg.a0d81982.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.029745bb.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.13ecbbfb.chunk.js",
+    "static/css/main.3ee105f3.chunk.css",
+    "static/js/main.d5e26a6b.chunk.js"
+  ]
+}

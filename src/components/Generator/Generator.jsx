@@ -70,11 +70,12 @@ const Generator = () => {
             ))}
           </div>
           <div className="input-form">
-            <span>from</span> <input type="number" ref={minNumberRef} onChange={checkInputs} />
+            <span>Choose a number from</span> <input type="number" ref={minNumberRef} onChange={checkInputs} />
             <span>to</span>
             <input type="number" ref={maxNumberRef} onChange={checkInputs} />
           </div>
           <div className="exercises-number-field">
+            <span>Choose a number of exercises:</span> 
             <input type="number" ref={exercisesNumberRef} onChange={checkInputs} />
           </div>
           <div className="btn-generate">
